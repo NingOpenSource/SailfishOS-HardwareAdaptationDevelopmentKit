@@ -1,0 +1,2 @@
+# SailfishOS-HardwareAdaptationDevelopmentKit
+翻译SailfishOS-HardwareAdaptationDevelopmentKit.pdf
